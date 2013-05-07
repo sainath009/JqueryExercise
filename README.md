@@ -1,0 +1,4 @@
+JqueryExercise
+==============
+
+Jquery field validation
